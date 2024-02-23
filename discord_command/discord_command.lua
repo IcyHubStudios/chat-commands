@@ -8,6 +8,4 @@ end, false)
 
 
 -- Add another command? Copy everything above this and customize it how you like it. 
--- https://github.com/IcyHubStudios/chat-commands  
--- IcyHubStudios                     
 
